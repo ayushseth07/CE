@@ -92,7 +92,7 @@ $(function() {
     nav: false,
     dots: false,
     autoplay:true,
-    autoplayTimeout:1000,
+    autoplayTimeout:2500,
    autoplayHoverPause:true,
    loop:true,
     responsive: {
@@ -110,7 +110,7 @@ $(function() {
     nav: false,
     dots: false,
     autoplay:true,
-    autoplayTimeout:1000,
+    autoplayTimeout:2500,
    autoplayHoverPause:true,
    loop:true,
     responsive: {
