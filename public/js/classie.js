@@ -94,6 +94,8 @@ $(function() {
     autoplay:true,
     autoplayTimeout:2500,
    autoplayHoverPause:true,
+   animateOut: 'fadeOut',
+      animateIn: 'zoomIn',
    loop:true,
     responsive: {
       0: {
@@ -112,6 +114,8 @@ $(function() {
     autoplay:true,
     autoplayTimeout:2500,
    autoplayHoverPause:true,
+   animateOut: 'zoomOut',
+      animateIn: 'zoomIn',
    loop:true,
     responsive: {
       0: {
