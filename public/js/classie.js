@@ -93,6 +93,8 @@ $(function() {
     dots: false,
     autoplay:true,
     autoplayTimeout:2500,
+    autoplaySpeed:2500,    
+    slideTransition: 'linear',
    autoplayHoverPause:true,
    animateOut: 'fadeOut',
       animateIn: 'zoomIn',
