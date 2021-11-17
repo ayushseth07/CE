@@ -1,5 +1,7 @@
 const express = require('express');
 const app = express();
+const PORT = process.env.PORT || 3001;
+
 app.use(express.static("public"));
 app.set('view engine', 'ejs');
 
@@ -42,4 +44,6 @@ app.get("/scannersoftware", function(req, res) {
 app.get("/scannerhardware", function(req, res) {
  res.render("scannerhardware");
 });
-app.listen(3000);
+server.listen(PORT, () => {
+  console.log('Connected : '+ PORT);
+});
