@@ -4,10 +4,6 @@
 /* Float Elements
 
 ---------------------------------*/
-@font-face {
-   font-family: Dosis;
-   src: url(dosis-bold.woff);
-}
 .fl-lt {float:left;}
 .fl-rt {float:right;}
 
