@@ -145,10 +145,7 @@
 @media only screen and (max-width: 479px) {
 	/****Mobile Portrait 320 ****/
 	#filters ul li{ display:block;}
-	.contact-info-box{ margin-left:0px;}
 	.header{ padding:40px;}
-	.social-link{ margin-left:0px;}
-	.form{ margin:0}
 	.top_left_cont h2{ font-size:20px;}
 	.client_area{ width:276px;}
 	.quote_section p{ font-size:15px;}
