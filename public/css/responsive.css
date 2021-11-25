@@ -71,14 +71,14 @@
 	#work_outer{background:none; padding:25px 0px; }
 	.top_cont_inner{background-size: 90% auto; -webkit-background-size: 90% auto;padding-bottom: 68%;}
 
-	.top_cont_latest{background-size: 90% auto; -webkit-background-size: 90% auto;padding-bottom: 68%;}
+	.top_cont_latest{background-size: 90% auto; -webkit-background-size: 90% auto;}
 	.top_left_cont { padding: 10% 0;}
 	.top_left_cont h2{ font-size:29px;}
 	body{ font-size:12px;}
 	h2{ font-size:26px;}
 	h3{ font-size:14px;}
 	h6{ font-size:16px; margin-bottom:40px;}
-	p{ line-height:18px;}
+	p{ line-height:22px; font-size: 14px}
 	.service-list{ font-size:12px; margin-bottom:20px;}
 	.we-create li{ font-size:13px; padding:0 0 0 8px}
 	.header h1{ font-size:28px;}
@@ -97,7 +97,7 @@
 	.featured-box p{ line-height:18px; }
 	.main-section.team{ padding:60px 0 50px;}
 	.business-talking h2{ font-size:36px;}
-	.contact-info-box{ margin:0 0 12px 30px; font-size:12px;}
+	.contact-info-box{ margin:0 15px 12px 15px; font-size:12px;}
 	.contact-info-box span{ line-height:18px;}
 	.social-link{ margin-left:30px;}
 	.form{ margin:0 30px;}
@@ -145,10 +145,7 @@
 @media only screen and (max-width: 479px) {
 	/****Mobile Portrait 320 ****/
 	#filters ul li{ display:block;}
-	.contact-info-box{ margin-left:0px;}
 	.header{ padding:40px;}
-	.social-link{ margin-left:0px;}
-	.form{ margin:0}
 	.top_left_cont h2{ font-size:20px;}
 	.client_area{ width:276px;}
 	.quote_section p{ font-size:15px;}
